@@ -11,7 +11,7 @@
  * รูปแบบ: https://api.cloudinary.com/v1_1/{cloud_name}/image/upload
  * *** สำคัญ: ต้องแก้ไข 'dlx86njpw' เป็น Cloud Name ของตัวเอง ***
  */
-const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/dlx86njpw/image/upload'; // แก้ไขเป็นของตัวเอง
+const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/dlp0q39ua/image/upload'; // แก้ไขเป็นของตัวเอง
 
 /**
  * Upload Preset สำหรับการกำหนดค่าการอัปโหลด
